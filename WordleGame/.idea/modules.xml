@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WordleClient/WordleClient/WordleClient.iml" filepath="$PROJECT_DIR$/WordleClient/WordleClient/WordleClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordleClient/WordleClient1.iml" filepath="$PROJECT_DIR$/WordleClient/WordleClient1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WordleGame.iml" filepath="$PROJECT_DIR$/.idea/WordleGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordleServer/WordleServer.iml" filepath="$PROJECT_DIR$/WordleServer/WordleServer.iml" />
+    </modules>
+  </component>
+</project>

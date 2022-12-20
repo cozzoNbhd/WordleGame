@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WordleClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WordleClient/WordleClient/WordleClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
